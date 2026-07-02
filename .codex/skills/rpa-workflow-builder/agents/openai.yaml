@@ -1,0 +1,5 @@
+interface:
+  display_name: "RPA Workflow Builder"
+  short_description: "Design reliable RPA automation workflows."
+  default_prompt: "Use $rpa-workflow-builder to create or improve an RPA workflow."
+

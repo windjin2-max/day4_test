@@ -1,0 +1,6 @@
+interface:
+  display_name: "Code Review"
+  short_description: "FE/BE 코드 리뷰 결과를 한글 표로 정리함"
+  default_prompt: "Use $code-review to review completed FE and BE code in Korean."
+policy:
+  allow_implicit_invocation: false
